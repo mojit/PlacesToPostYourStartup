@@ -99,5 +99,5 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://launchlister.com/ -- Amalgamates from free Product Hunt, Beta List & Startup List. Or Paid $29 for direct submission
 * http://submit.co/ - List of places to get press coverage for your startup
 * http://reddit.com/r/imadethis
-
+* http://promotehour.com/ -- List of 130+ places to submit a startup with short advice. Also has a paid service to submit on 60+ sites. 
 Looking for a curated list of more [Awesome](https://github.com/sindresorhus/awesome) lists?
